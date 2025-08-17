@@ -1,0 +1,7 @@
+System Design Notes (Placeholder)
+
+- Microcontroller: ESP32-S3 (LILYGO T-Display S3)
+- Sensors: CO, CO2, H2S, CH4 + Temperature & Humidity
+- Display: On-device TFT screen
+- Communication: Bluetooth to smartphone app
+- Safety: Alerts for OSHA compliance gas thresholds
