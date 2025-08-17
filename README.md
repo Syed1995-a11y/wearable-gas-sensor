@@ -1,4 +1,4 @@
-```# Wearable Gas Sensor Device
+# Wearable Gas Sensor Device
 
 ## 🌍 Project Overview
 A wearable gas sensor device that detects hazardous gases and environmental conditions, interfaced with an ESP32 microcontroller and connected to a smartphone app via Bluetooth.
@@ -16,8 +16,16 @@ A wearable gas sensor device that detects hazardous gases and environmental cond
 - Android Studio (if app is Android) or Xcode (if iOS)  
 
 ## 📂 Project Structure
+```
 wearable-gas-sensor/
 ├── firmware/ # ESP32 source code (placeholder)
 ├── app/ # Mobile application (placeholder)
 ├── docs/ # Schematics, design notes
-└── README.md```
+└── README.md
+```
+
+
+## 📜 License
+MIT License
+
+
