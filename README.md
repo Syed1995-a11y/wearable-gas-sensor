@@ -25,7 +25,6 @@ wearable-gas-sensor/
 ```
 
 
-## 📜 License
-MIT License
+
 
 
